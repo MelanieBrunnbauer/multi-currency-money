@@ -1,0 +1,1 @@
+First example from Kent Beck's 'Test Driven Development by Example' 
